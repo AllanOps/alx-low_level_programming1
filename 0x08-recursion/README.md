@@ -1,0 +1,1 @@
+Recursion is where the solution of a problem involves the breaking down of a large problem to be solved in smaller instances of the same problem. This project seeks to explain/inform more about how recursion works and its use cases.
