@@ -4,7 +4,7 @@
 /**
  * main - prints the filename of where its been compiled from
  *
- * Return value always 0
+ * Return always 0
  */
 
 int main(void)
