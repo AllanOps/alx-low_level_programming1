@@ -1,1 +1,1 @@
-The argc and argv built in functions are functions in C that enable the use of iteration over an array using the argc and manipulation on char arrays via argv
+Variable argc stands for "argument count"; argc contains the number of arguents passed to the program. Variable argv stands for "argument vector". A ector is a one-dimentional array, and argv is a one-dimentional array of strings.
