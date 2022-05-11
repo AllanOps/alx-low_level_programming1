@@ -1,1 +1,1 @@
-Project aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in C language.
+This project is aimed at learning about arithmetic operators, Relational Operators, Boolean Operators, Comments, declaring variables and how to go about loops in C language.
